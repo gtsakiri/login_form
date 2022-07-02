@@ -11,6 +11,7 @@ import LinkPage from './components/LinkPage';
 import RequireAuth from './components/RequireAuth';
 import { Routes, Route } from 'react-router-dom';
 
+//hello/
 const ROLES = {
   'User': 2001,
   'Editor': 1984,
